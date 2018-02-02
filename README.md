@@ -1,0 +1,2 @@
+# ConvertJsonToSwiftVar
+将json中的字段转换成swift模型变量
